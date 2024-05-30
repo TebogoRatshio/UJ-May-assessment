@@ -1,12 +1,12 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Tebogo Ratshio",
+        "photo" : "my-cvphoto.JPG",
+        "phone" : "0737865072",
+        "email" : "tebogoratshio@gmail.com"
     },
     "education" : {
-        "institutionName" : "",
+        "institutionName" : "University of Johannesburg",
         "photo" : "",
         "description" : ""
     },
