@@ -15,14 +15,30 @@
         <div class="row">
             <div class="col s8" style="height: 60em; background-color: white;(219, 219, 42);">
                 <h3>Tebogo Ratshio</h3>
-                <!-- <p>{{user.fullName}}</p> -->
-                <h5 style="font-style: italic;">Software Development Intern</h5>
+                <h5 style="font-style: italic;">Content Classifier</h5>
+                <hr>
+                <h5 style="font-weight: bolder;">Education</h5>
+                <p>{{education.institutionName}}</p>
+
+                <p></p>
+                <img src="{{education.photo}}" alt="" srcset="">
+                <hr>
+                <h5 style="font-weight: bolder;">Work Experience</h5>
+                <h6 style="font-weight: bolder;">Film and Publication Board</h6>
+                <p>{{workexperience.position}}</p>
+                <p>{{workexperience.description}}</p>
+
+                <h6 style="font-weight: bolder;">University of Johannesburg</h6>
+                <p>{{workexperience.position2}}</p>
+                <p>{{workexperience.description2}}</p>
+
                 
+       
             </div>
 
             <div class="col s4" style="height: 60em; background-color: blueviolet;(219, 219, 42);">
-                <img src="my-photo.jpg">
-                <h5>Contact Details</h5>
+                <img src="my-photo (1).jpg">
+                <h5 style="font-weight: bolder;">Contact Details</h5>
                 <label>Mobile Number:</label>
                 <p>{{user.phone}}</p>
                 <label>Email Address:</label>
@@ -30,6 +46,10 @@
                 <label>Address:</label>
                 <p>{{user.address}}</p>
                 <hr>
+                <h5 style="font-weight: bolder;">Language</h5>
+                <p>{{Language.language}}</p>
+                <p>{{Language.language2}}</p>
+                <p>{{Language.language3}}</p>
             </div>
 
             

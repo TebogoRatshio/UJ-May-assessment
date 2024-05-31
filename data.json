@@ -1,42 +1,55 @@
 {
-    "user" : {
-        "fullName" : "Tebogo Ratshio",
-        "photo" : "my-cvphoto.JPG",
-        "phone" : "0737865072",
-        "email" : "tebogoratshio@gmail.com"
+    "user": {
+        "fullName": "Tebogo Ratshio",
+        "photo": "my-cvphoto.JPG",
+        "phone": "0737865072",
+        "email": "tebogoratshio@gmail.com",
+        "address": "11065 Motseme street, Dobsonville"
     },
-    "heading" : {
-        "position" : "Software Development Intern"
+    "heading": {
+        "position": "Software Development Intern"
     },
-
-    "education" : {
-        "institutionName" : "University of Johannesburg",
-        "photo" : "",
-        "description" : ""
+    "education": {
+        "institutionName": "University of Johannesburg",
+        "photo": "UJ RANKED IN BEST GLOBAL UNIVERSITIES RANKINGS.jpg",
+        "description": ""
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+    "workexperience": {
+        "companyName": "Film and Publication Board",
+        "position": "Content Classifier",
+        "description": "View films and games, write reports, discuss with the classification committee, provide age rating for viewers, atttend to Quality Assurance feedback to amend the reports.",
+        
+        "companyName2": "University of Johannesburg",
+        "position2": "Strategic Tutor",
+        "description2": "Marking assignments and exams, assisting both students and lecturers with their daily requirements and invigilating undergraduates."
+    },
+    "Language": {
+        "language": "English",
+        "language2": "Setswana",
+        "language3": "IsiZulu",
+        "phrases": [
+            {
+                "englishPhrase": "",
+                "foreignLanguage": ""
+            },
+            {
+                "englishPhrase": "",
+                "foreignLanguage": ""
+            }
+        ]
+    },
+    "favouriteSubjects": [
+        {
+            "name": "",
+            "description": ""
         },
         {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
-    },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
+            "name": "",
+            "description": ""
         },
         {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
+            "name": "",
+            "description": ""
         }
     ]
 }
