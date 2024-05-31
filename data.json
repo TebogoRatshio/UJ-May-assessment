@@ -6,12 +6,13 @@
         "email": "tebogoratshio@gmail.com",
         "address": "11065 Motseme street, Dobsonville"
     },
-    "heading": {
-        "position": "Software Development Intern"
+    "qualification": {
+        "degree": "BCom. Honours Information Management",
+        "year": "2022-2023"
     },
     "education": {
         "institutionName": "University of Johannesburg",
-        "photo": "UJ RANKED IN BEST GLOBAL UNIVERSITIES RANKINGS.jpg",
+        "photo": "./UJ RANKED IN BEST GLOBAL UNIVERSITIES RANKINGS.jpg",
         "description": ""
     },
     "workexperience": {
@@ -22,6 +23,9 @@
         "companyName2": "University of Johannesburg",
         "position2": "Strategic Tutor",
         "description2": "Marking assignments and exams, assisting both students and lecturers with their daily requirements and invigilating undergraduates."
+    },
+    "reference": {
+        "text": "Available Upon Request"
     },
     "Language": {
         "language": "English",
